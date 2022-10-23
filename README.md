@@ -1,0 +1,1 @@
+# VBA-Alternative-Binary-File-Write
